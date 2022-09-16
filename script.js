@@ -6,8 +6,8 @@ const lists = document.querySelectorAll('.list');
 
 ham.addEventListener('click', () => {
   ham.classList.toggle('active');
-  menu.classList.toggle('in-active');
-  logo.classList.toggle('in-active');
+  menu.classList.toggle('active');
+  lists.classList.toggle('active');
 });
 
 logo.addEventListener('click', () => {
@@ -20,7 +20,7 @@ const spreadList = [...lists];
 spreadList.forEach((list) => {
   list.addEventListener('click', () => {
     ham.classList.toggle('active');
-    menu.classList.toggle('in-active');
+    menu.classList.toggle('active');
     logo.classList.toggle('in-active');
   });
 });
