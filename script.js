@@ -17,8 +17,8 @@ logo.addEventListener('click', () => {
 });
 
 const spreadList = [...lists];
-spreadList.forEach((lists) => {
-  lists.addEventListener('click', () => {
+spreadList.forEach((list) => {
+  list.addEventListener('click', () => {
     ham.classList.toggle('active');
     menu.classList.toggle('in-active');
     logo.classList.toggle('in-active');
