@@ -1,7 +1,7 @@
 # capstone-project-1
 Capstone Project on HTML,CSS &amp; JAVASCRIPT (Dom Manipulation)
 
-# Futuristic Gyms
+# Geolex Cyber Space 
 
 > Geolex Cyber Space webinar
 > This is a project based on a brand called "Geolex Digital Space". All contents and name of brand were created by me.
@@ -15,6 +15,8 @@ Capstone Project on HTML,CSS &amp; JAVASCRIPT (Dom Manipulation)
 ## Live Demo (if available)
 
 [Live Demo Link](https://richardchileya.github.io/capstone-project-1/about.html/)
+
+[Loom VIdeo:](https://www.loom.com/share/2c3d96b8243b476eb0f8231100b932b9)
 
 ## Getting Started
 
