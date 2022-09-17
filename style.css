@@ -129,17 +129,17 @@ li {
   margin: 3px;
 }
 
-.hamburger.active .ham1 {
+.hamburger.action .ham1 {
   transform: rotate(48deg) translateY(22px);
   transition: all 0.3s ease;
 }
 
-.hamburger.active .ham3 {
+.hamburger.action .ham3 {
   transform: rotate(-48deg) translateY(-22px);
   transition: all 0.2s ease;
 }
 
-.hamburger.active .ham2 {
+.hamburger.action .ham2 {
   opacity: 0;
   transition: all 0.3s ease;
 }
