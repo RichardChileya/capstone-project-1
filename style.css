@@ -424,8 +424,8 @@ body {
     ),
     url(./images/zoom.jpeg);
   background-repeat: no-repeat;
-  width: 300px;
-  height: 190px;
+  width: 296px;
+  height: 170px;
   padding: 0;
   border: 0;
   margin: 5%;
@@ -441,11 +441,12 @@ body {
     ),
     url(./images/zoom2.jpeg);
   background-repeat: no-repeat;
-  width: 300px;
-  height: 190px;
+  width: 297px;
+  height: 170px;
   padding: 0;
   border: 0;
   margin: 0;
+  align-self: center;
 }
 
 .prev {
@@ -508,7 +509,8 @@ body {
 .pix {
   display: flex;
   flex-direction: column;
-  align-self: center;
+  align-items: center;
+  padding-bottom: 40px;
 }
 
 .see-more {
