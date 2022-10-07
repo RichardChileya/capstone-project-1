@@ -1,5 +1,7 @@
 # capstone-project-1
-Capstone Project on HTML,CSS &amp; JAVASCRIPT (Dom Manipulation)
+This is project is my based on building my fist Captstone Project An online event's website :Geolex Digital Space 
+The Project is built with  HTML,CSS &amp; JAVASCRIPT (Dynamic coding writing with Dom Manipulation)
+Main features:Dom Manipulation Awareness Building through netwroking and information sharing at the webinar
 
 # Geolex Cyber Space 
 
